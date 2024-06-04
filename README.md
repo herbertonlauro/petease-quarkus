@@ -1,4 +1,4 @@
-# petease-quarkus
+# PetEase-Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
